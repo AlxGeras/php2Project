@@ -1,0 +1,18 @@
+{
+    "name": "ember/rpg",
+    "autoload": {
+        "psr-4": {
+            "Ember\\Rpg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ember",
+            "email": "evebay@mail.ru"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.20",
+        "roave/security-advisories": "dev-latest"
+    }
+}
